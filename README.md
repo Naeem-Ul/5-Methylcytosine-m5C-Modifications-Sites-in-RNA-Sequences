@@ -8,7 +8,9 @@ project/
 │   └── train.fasta
 Update Dataset Path
 
+
 Open main.py and modify the dataset path:
+
 
 data_path = 'data/train.fasta'
 Install Dependencies
