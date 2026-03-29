@@ -34,10 +34,12 @@ Place your FASTA file inside a folder (e.g., `data/`).
 
 Example structure:
 
+```
 project/
 ├── main.py
 ├── data/
-│ └── train.fasta
+│   └── train.fasta
+```
 
 
 
